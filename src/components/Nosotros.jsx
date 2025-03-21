@@ -19,7 +19,7 @@ const Nosotros = () => {
   return (
     <div className="container">
         <h1 className="main-title">Nosotros</h1>
-        <p>Este es el componente "Nosotros"</p>
+        <p>Bienvenidos a Milkshakeshake!, el lugar donde la frescura, el sabor y la salud se mezclan en cada sorbo. Nuestra pasión por los ingredientes naturales y nutritivos nos llevó a crear un espacio donde cada batido es más que una bebida: es una experiencia deliciosa y revitalizante.</p>
     </div>
   )
 }
